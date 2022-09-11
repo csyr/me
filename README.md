@@ -14,7 +14,7 @@ I am a big fan of mobile internet application development technology. I have a s
 
 ## Work experience
 
-Time:Jan 2015-Aug 2021<br>
+**Time:01/2015-**<br>
 Company: Tiantianbaifenbai (Beijing) Trading Co., Ltd<br>
 Job Title:CTO<br>
 Job Description：<br>
@@ -27,7 +27,7 @@ Responsible for building a technical team and developing online application<br>
   
   
 
-Time:06/2012--12/2014<br>
+**Time:06/2012--12/2014**<br>
 Company: Baidu<br>
 Job title: System Architect<br>
 Department: LBS Search Department<br>
@@ -40,7 +40,7 @@ Responsible for the project of Zhixin architecture and back-end technology devel
   
   
   
-Time:02/2010--12/2012<br>
+**Time:02/2010--12/2012**<br>
 Company: Tencent<br>
 Job title: Senior R&D Engineer<br>
 Department: OMG<br>
@@ -53,7 +53,7 @@ Responsible for technical support of the Guangping project. I proposed technical
 4. Assessed technical risks in advance and gave an effective risk-avoiding scheme. And I controlled the whole system development progress, balancing the resource allocation in projects.
 
 
-
+**Time:02/2008--12/2009**<br>
 Company: Haoye Advertising Co., Ltd<br>
 Job title: CTO<br>
 Job description：<br>
