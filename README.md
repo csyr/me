@@ -24,9 +24,9 @@ Responsible for building a technical team and developing online application
 1. Builded a technical team：Builded a back-end technology development team and a front-end technology team from zero to one.
 2. Launched online applications：Developed online systems,  maintained back-end systems and provided data analysis for market operations.
 3. Constructed a technical department system ：Launched 3 projects, standardized the technical process(Technical documents and Test online process), established employees’ promotion mechanism and cultivated team culture.
-
-
-
+  
+  
+  
 
 Time:06/2012--12/2014
 Company: Baidu
@@ -34,15 +34,13 @@ Job title: System Architect
 Department: LBS Search Department
 Job description：
 Responsible for the project of Zhixin architecture and back-end technology development.
-
-
-
 **Main project experience：**
 1. Responsible for the development of Zhixin. I implemented product logic based on the needs of product managers and market operations.And the maximum value of dau reached 4100W.
 2. Participated in the system reconfiguration of Tianwang Mountain, including user system, subscription system and trading system. Provided back-end technical support of trading system and user subscription.
 3. Developed the business district system of Dongni.
-
-
+  
+  
+  
 Time:02/2010--12/2012
 Company: Tencent
 Job title: Senior R&D Engineer
