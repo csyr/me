@@ -1,5 +1,8 @@
 ## Self-evaluation
 
+
+10+ years of technical team management experience in Fortune 500 enterprises, including more than 4+ years of management for the  technical team with 120+ technicians, and 2+ years of crypto product technical team management experience, and participated in the release of Game-Fi products and NFT collections.Csyr is a super fan of blockchain development technology.He knew crypto since 2015 and started to mint in 2018. He has a deep understanding of technical languages such as Rust, Golang, and Python. He has a strong curiosity about the latest technology, which is also the main reason why he loves to study new technology.
+
 I worked at Tencent (T3-1) and Baidu (T7) in the past years. 
 
 At the same time, I have abundant entrepreneurial experience for 5 years in the field of e-commerce and social platforms and so on. I have 6 years experience of back-end system construction, owing 7 years development experience of PHP and GO. 
